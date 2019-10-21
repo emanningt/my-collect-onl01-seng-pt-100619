@@ -1,14 +1,12 @@
 
 def my_collect(array)
- c = 0 
- empty_array = []
- 
- while c < array.length
- collection << yield(array[c])
- c += 1 
- 
-end
+  i = 0 
+  collection = []
+  while i < 
+  array.length
+  collection <<
+  yield(array[i])
+  i += 1 
+end 
 return array
 end
-
-
