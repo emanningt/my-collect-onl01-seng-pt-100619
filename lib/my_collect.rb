@@ -8,6 +8,7 @@ def my_collect(array)
  c += 1 
  
 end
+return array
 end
 
 
